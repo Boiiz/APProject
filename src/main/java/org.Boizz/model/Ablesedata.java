@@ -1,4 +1,4 @@
-package org.Boizz.model;
+package model;
 
 public class Ablesedata {
 }
