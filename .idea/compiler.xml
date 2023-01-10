@@ -9,5 +9,8 @@
         <module name="APProjects" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="APProject" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
