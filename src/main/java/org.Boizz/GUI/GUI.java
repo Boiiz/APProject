@@ -1,4 +1,4 @@
-package GUI;
+package org.Boizz.GUI;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 //import org.Boizz.Data.EntryList;

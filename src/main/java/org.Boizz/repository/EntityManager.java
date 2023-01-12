@@ -1,4 +1,6 @@
-package repository;
+package org.Boizz.repository;
 
 public class EntityManager {
+
+
 }
