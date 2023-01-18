@@ -1,0 +1,6 @@
+org\Boizz\api\RestClient.class
+org\Boizz\model\Kunde.class
+org\Boizz\resource\EmployeeRessourceImpl.class
+org\Boizz\resource\HelloWorldRessource.class
+org\Boizz\api\StartServer.class
+org\Boizz\model\Ablesung.class

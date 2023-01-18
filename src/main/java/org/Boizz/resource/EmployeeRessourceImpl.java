@@ -3,7 +3,7 @@ package org.Boizz.resource;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import org.example.model.Ablesung;
+import org.Boizz.model.Ablesung;
 
 @Path("employees")
 public class EmployeeRessourceImpl {
